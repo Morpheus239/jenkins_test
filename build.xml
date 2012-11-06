@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="jenkins_test" name="Create Runnable Jar for Project jenkins_test">
+    <!--this file was created by Eclipse Runnable JAR Export Wizard-->
+    <!--ANT 1.7 is required                                        -->
+    <target name="jenkins_test">
+        <jar destfile="${ant.project.default-target}.jar" filesetmanifest="mergewithoutmain">
+            <manifest>
+                <attribute name="Main-Class" value="main"/>
+                <attribute name="Class-Path" value="."/>
+            </manifest>
+            <fileset dir="${basedir}/bin"/>
+        </jar>
+    </target>
+</project>
