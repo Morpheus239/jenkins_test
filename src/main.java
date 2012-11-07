@@ -8,6 +8,7 @@ public class main {
 	// TODO Auto-generated method stub
 		System.out.println("This is a test Projekt");
 		ausgabe();
+		new Gui();
 	}
 
 	
