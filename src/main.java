@@ -12,7 +12,7 @@ public class main {
 
 	
 	private static void ausgabe() {
-		System.out.println("Version 1.0");
+		System.out.println("Version 2.0a");
 	}
 	
 	
