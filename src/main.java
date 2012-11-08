@@ -14,9 +14,10 @@ public class main {
 	
 	private static void ausgabe() {
 		System.out.println("Version 2.0a");
+		System.out.println("ASDASDASD");
 	}
 	
 	
-	
+		
 	
 }
