@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Hallo mein Name ist michael.
 
 
 
 ach du lieber Alarm :W
+=======
+Hallo mein Name ist Michael_Ubuntu, du Nase.
+>>>>>>> f46b8bdc6dca636bcede3453b9d87fbbef79ab18
